@@ -16,30 +16,4 @@ Skills: LINUX / AWS / TERRAFORM / BASH / PYTHON
 
 ## Where Am I ?
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-83,30],
-              [-83,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
 
