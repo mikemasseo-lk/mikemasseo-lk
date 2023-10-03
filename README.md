@@ -6,7 +6,7 @@
 I love to fix troublesome issues that may seem to never go away.
 I hope to get everyone thinking about Observability more and helping champion Site Reliability Engineering (SRE).
 
-Skills: LINUX / AWS / TERRAFORM / BASH / PYTHON
+
 
 - 🔭 I’m currently working on Supporting my team and others at LendKey 
 - 🌱 I’m currently learning LendKey applications, services and infrastructure 
