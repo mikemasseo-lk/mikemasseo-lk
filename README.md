@@ -14,6 +14,5 @@ I hope to get everyone thinking about Observability more and helping champion Si
 - 💬 Ask me about Linux, SRE, Observability, Music, Cars, Old Video Games 
 
 
-## Where Am I ?
 
 
